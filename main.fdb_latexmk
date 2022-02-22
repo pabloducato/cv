@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645478424 "c:/Users/Dell/Source/Repos/CVs/21_02_2022/main.tex" "main.pdf" "main" 1645478426
+["pdflatex"] 1645567258 "c:/Users/Dell/Source/Repos/CVs/21_02_2022/main.tex" "main.pdf" "main" 1645567261
   "207953.jpg" 1645457688 103660 2a6687b6c29b8eeea06d131c22453360 ""
   "C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645457381 86889 17aa5486924740c97a55030aca563ee2 ""
   "C:/Users/Dell/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1645449549 12668 46100ab66d0567ea294c1b9ec3c6bf6a ""
@@ -155,10 +155,10 @@
   "C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1636710260 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
   "C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Users/Dell/Source/Repos/CVs/21_02_2022/main.tex" 1645478421 6345 9d27f08f449e3dd015f1ae8ee07f06b0 ""
-  "main.aux" 1645478426 729 b69ef941e5ff03106b523846bc322543 "pdflatex"
-  "main.out" 1645478426 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1645478421 6345 9d27f08f449e3dd015f1ae8ee07f06b0 ""
+  "c:/Users/Dell/Source/Repos/CVs/21_02_2022/main.tex" 1645567257 6345 143579f6ff895b9a143d0a8bd1111c8c ""
+  "main.aux" 1645567261 729 b69ef941e5ff03106b523846bc322543 "pdflatex"
+  "main.out" 1645567260 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1645567257 6345 143579f6ff895b9a143d0a8bd1111c8c ""
   "resume.cls" 1645460062 4273 dba0bcbe48a16404d148f359a0cb74e0 ""
   (generated)
   "main.aux"
